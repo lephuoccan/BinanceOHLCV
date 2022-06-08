@@ -1,7 +1,7 @@
 # Disclaimer
 
 ```shell
-	This source is foward from unknow people, If this violates someone's copyright please notify me
+	This source is foward from unknown people, If this violates someone's copyright please notify me
 ```
 # Usage
 
